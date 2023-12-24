@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Şevval, I am a Software Engineer. I am developing as a Frontend Developer.</h2>
+<h2 align="left">Hi 👋! My name is Şevval, I am a Computer Engineer. I am developing as a Frontend Developer.</h2>
 
 ###
 <h2 align="left">My GitHub Stats 📊</h2>
